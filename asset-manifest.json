@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PizzzaStore/static/css/main.e1eaae12.chunk.css",
+    "main.js": "/PizzzaStore/static/js/main.4cf8e354.chunk.js",
+    "main.js.map": "/PizzzaStore/static/js/main.4cf8e354.chunk.js.map",
+    "runtime-main.js": "/PizzzaStore/static/js/runtime-main.f3e06e78.js",
+    "runtime-main.js.map": "/PizzzaStore/static/js/runtime-main.f3e06e78.js.map",
+    "static/js/2.c7effb3c.chunk.js": "/PizzzaStore/static/js/2.c7effb3c.chunk.js",
+    "static/js/2.c7effb3c.chunk.js.map": "/PizzzaStore/static/js/2.c7effb3c.chunk.js.map",
+    "index.html": "/PizzzaStore/index.html",
+    "static/css/main.e1eaae12.chunk.css.map": "/PizzzaStore/static/css/main.e1eaae12.chunk.css.map",
+    "static/js/2.c7effb3c.chunk.js.LICENSE.txt": "/PizzzaStore/static/js/2.c7effb3c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PizzzaStore/static/media/bg.38f4b351.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e06e78.js",
+    "static/js/2.c7effb3c.chunk.js",
+    "static/css/main.e1eaae12.chunk.css",
+    "static/js/main.4cf8e354.chunk.js"
+  ]
+}
